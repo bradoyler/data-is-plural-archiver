@@ -4,7 +4,7 @@ This repo pulls content from the Data Is Plural GoogleDoc and converts to Markdo
 
 ## Structured Archive by Jeremy Singer-Vine (jsvine@gmail.com)
 
-[Read full archive](archive.md)
+### [Read full archive](archive.md)
 
 #### Re-generate the Archive
 
