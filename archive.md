@@ -1,4 +1,6 @@
-# Data Is Plural 
+# [Data Is Plural](https://tinyletter.com/data-is-plural)
+
+Sign-up for newsletter @ https://tinyletter.com/data-is-plural
 
 ## Edition 2016.05.25
 
