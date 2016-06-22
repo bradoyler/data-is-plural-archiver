@@ -1,6 +1,172 @@
 # [Data Is Plural](https://tinyletter.com/data-is-plural)
 
 Sign-up for newsletter @ https://tinyletter.com/data-is-plural
+## Edition 2016.06.22
+
+### The Hum.
+
+http://www.thehum.info/
+https://www.google.com/fusiontables/DataSource?docid=1EyjVZqUPpoXGQDa_cry9DqFaBVMOgEyq-3qo85bx#rows:id=1
+
+“Most people find this website because they are searching for the source of an unusual low frequency sound.” The World Hum Database currently includes more than 10,000 reader-submitted reports, including a recent submissions that describe the noise as sounding “like a fridge,” “like a train in the distance,” and “like a cicada that never shuts up.” [h/t Susie Cambria]
+
+### 2BR with vinyl siding, sweet 2BR with vinyl siding.
+
+http://www.census.gov/construction/chars/
+http://www.nytimes.com/2016/06/04/upshot/houses-keep-getting-bigger-even-as-families-get-smaller.html
+
+The U.S. Census Bureau’s Annual Characteristics of New Housing culls data on features such as square footage, wall material, number of bedrooms, and number of fireplaces. (Air conditioning was present in 93% of new single-family homes built in 2015, up from 49% in 1973.) Related: “Houses Keep Getting Bigger, Even as Families Get Smaller.” [h/t Lindsey Cook]
+
+### Bull vs. man.
+
+http://www.sanfermin.com/index.php/en/encierro/como-correr/cuanta-gente-corre-en-el-encierro-de-sanfermin
+http://www.sanfermin.com/index.php/en/encierro/que-es
+http://www.sanfermin.com/index.php/en/encierro/buscador/buscador-encierros
+http://www.sanfermin.com/old/encierrometro/buscador_encierros.php?lang=eng&buscar=1
+http://fivethirtyeight.com/datalab/your-chances-of-being-gored-by-a-bull-in-pamplona-are-getting-higher/
+
+Next month, thousands of adrenaline junkies will gather in Pamplona for the city’s annual Running of the Bulls. The San Fermin festival, which organizes the spectacle, publishes injury data on its website. (Here’s a shortcut to display every year of data, instead of one year at a time.) Last year, the bulls gored 10 runners and injured another 27. Related: “Your Chances Of Being Gored By A Bull In Pamplona Are Getting Higher.”
+
+### 6,000 years of urbanization.
+
+http://www.nature.com/articles/sdata201634
+http://urban.yale.edu/data
+http://www.worldcat.org/title/four-thousand-years-of-urban-growth/oclc/59678315
+http://www.worldcat.org/title/world-cities-3000-to-2000/oclc/57695214
+http://qz.com/706051/706051/
+
+Earlier this month, researchers published “the first spatially explicit dataset of urban settlements from 3700 BC to AD 2000,” along with a detailed methodology. The dataset digitizes and geocodes population numbers originally tabulated by historian Tertius Chandler (Four Thousand Years of Urban Growth) and political scientist George Modelski (World Cities: -3,000 to 2,000). Though “far from comprehensive,” the authors say that the dataset a “first step towards understanding the geographic distribution of urban populations throughout history.” Related: “Watch 6,000 years of urbanization taking over the world.”
+
+### Nonprofit IRS filings — at long last.
+
+https://www.irs.gov/uac/newsroom/irs-makes-electronically-filed-form-990-data-available-in-new-format
+https://aws.amazon.com/public-data-sets/irs-990/
+https://archive.org/details/IRS990-efile
+https://twitter.com/licyeus/status/743308612672466944
+https://gist.github.com/licyeus/95b99d6feb423ebea604b5f3e2cdf590
+
+Last week, the Internal Revenue Service released a huge dataset of nonprofits’ annual Form 990 filings, which provide details on program expenses, salaries, and more. More than 60% of Form 990s are filed digitally, according to the IRS. Previously, those forms were only available as images; now the IRS is publishing them as analysis-friendly XML files. (You can also download the data in bulk from the Internet Archive, thanks to Carl Malamud, the public domain advocate who led the fight for 990s-as-XML.) One early observer noted that the some of the data was misformatted, and has provided instructions for fixing it. [h/t Andrew Sullivan + Kendall Taggart]
+
+## Edition 2016.06.15
+
+### Gone fishing.
+
+https://www.st.nmfs.noaa.gov/commercial-fisheries/commercial-landings/
+
+The National Oceanic and Atmospheric Administration’s Fisheries Statistics Division provides data on seafood caught by U.S. commercial fisheries, sliceable by month, species, and fishing gear. You can learn, for example, that these fisheries caught 88,893,305 pounds of Dungeness crab in 2006 — the highest recorded total since at least 1950. [h/t Gwynn Guilford]
+
+### Gone phishing
+
+https://www.phishtank.com/index.php
+https://www.phishtank.com/developer_info.php
+
+. PhishTank is a clearinghouse that tracks thieves’ attempts to steal personal information and online credentials. The website also publishes bulk data on all verified phishing attempts — 44,000 and counting. With more than 1,000 phishing attempts recorded against it, PayPal is the single most-targeted website in the database. [h/t Herman Slatman]
+
+### Air quality.
+
+http://www.who.int/phe/health_topics/outdoorair/databases/cities/en/
+http://blogs.scientificamerican.com/guest-blog/a-new-air-pollution-database-is-good-but-imperfect/
+
+Last month, the World Health Organization released its latest update to the Global Urban Ambient Air Pollution Database, which now covers nearly 3,000 cities in 103 countries. For each city, the dataset includes annual average density of two key categories of particulates (PM2.5 and PM10), as well as details regarding the data collection. According to the organization’s own analysis, “98% of cities in low and middle income countries with more than 100,000 inhabitants do not meet WHO air quality guidelines.” Related: ”A New Air Pollution Database Is Good, but Imperfect.”
+
+### Title IX investigations.
+
+http://projects.chronicle.com/titleix/
+http://projects.chronicle.com/titleix/api/v1/docs/
+
+The Chronicle of Higher Education has been tracking federal investigations into sexual assault on college campuses. Recently, The Chronicle added an API, so that developers and data analysts can access the data more easily. Currently, the dataset includes 292 investigations conducted since April 2011 — 49 of which have been resolved. [h/t Jon Davenport]
+
+### (Almost) every politician.
+
+http://everypolitician.org/
+http://docs.everypolitician.org/repo_structure.html
+http://everypolitician.org/countries.html
+https://github.com/unitedstates/congress-legislators
+
+On everypolitician.org, you can search and download data on 70,000+ legislators (past and present) from 233 countries. (Among those missing: Cuba, Ethiopia, and Qatar.) The dataset includes each lawmaker’s party affiliation, years served, gender, social media profiles, and more. Related: Every member of the United States Congress since 1789.
+
+## Edition 2016.06.08
+
+### Billboard hits and lyrics.
+
+https://github.com/walkerkq/musiclyrics
+http://kaylinwalker.com/50-years-of-pop-music/
+
+Statistics grad student Kaylin Walker scraped 50 years of Billboard’s “Year-End Hot 100” rankings and those songs’ lyrics. Related: Walker’s analysis and methodology. [h/t Melissa Bierly]
+
+### The Netflix Prize, archived.
+
+http://www.netflixprize.com/
+https://www.techdirt.com/blog/innovation/articles/20120409/03412518422/why-netflix-never-implemented-algorithm-that-won-netflix-1-million-challenge.shtml
+https://web.archive.org/web/20090925184737/http://archive.ics.uci.edu/ml/datasets/Netflix+Prize
+https://archive.org/details/nf_prize_dataset.tar
+http://grouplens.org/datasets/movielens/
+https://tinyletter.com/data-is-plural/letters/data-is-plural-2016-01-27-edition
+
+In 2006, Netflix launched a $1 million challenge to beat the company’s movie-recommendation algorithm. In 2009, Netflix awarded the prize to a group of AT&T scientists (though ultimately didn’t use the winning algorithm). The challenge, which was open to the public, was based on a dataset of 100 million ratings from 480,000 (anonymized) users, corresponding to more than 17,000 movies between Oct. 1998 and Dec. 2005. The dataset, once hosted at UC Irvine, is currently available through the Internet Archive. Previously: MovieLens, featured Jan. 27. [h/t Brandon Loudermilk]
+
+### Local justice data.
+
+http://hallofjustice.sunlightfoundation.com/
+http://sunlightfoundation.com/blog/2016/05/04/lessons-learned-from-a-year-of-opening-police-data/
+
+The Sunlight Foundation’s Hall of Justice brings together “nearly 10,000” criminal justice datasets and research documents from across the United States. You can search for topics and filter by geography, publisher, and accessibility (open, open-but-not-machine-readable, restricted access, et cetera.). Related: Sunlight’s “lessons learned from a year of opening police data.” [h/t Susie Cambria + Noah Veltman]
+
+### Government court payouts.
+
+https://www.fiscal.treasury.gov/fsservices/gov/pmt/jdgFund/judgementFund_home.htm
+https://jfund.fms.treas.gov/jfradSearchWeb/JFPymtSearchAction.do
+
+The U.S. government maintains a “judgment fund,” which it uses to pay plaintiffs when federal agencies lose in court (or settle “actual or imminent lawsuits”). The Department of the Treasury, which administers the fund, publishes data on these payouts for each fiscal year going back to FY2006. [h/t CJ Ciaramella]
+
+### Nuclear accidents.
+
+https://innovwiki.ethz.ch/index.php/Nuclear_events_database
+http://onlinelibrary.wiley.com/doi/10.1111/risa.12587/full
+http://www-ns.iaea.org/tech-areas/emergency/ines.asp
+http://www.davidsmythe.org/nuclear/accidents.htm
+https://en.wikipedia.org/wiki/Monju_Nuclear_Power_Plant
+
+Researchers in Europe have published a database of 216 nuclear energy accidents — a compendium they say is “twice the size of the previous best data set.” For each accident, the database contains the date, location, description, and four measurements of severity: its ratings on the International Nuclear Event Scale and on the Nuclear Accident Magnitude Scale, the number of fatalities, and total monetary cost. (The three most expensive: Chernobyl, Fukushima, and a 1995 accident at Japan’s Monju Nuclear Power Plant, estimated to have caused $15.5 billion in damages.) [h/t Dad]
+
+## Edition 2016.06.01
+
+### The LEGO-verse.
+
+https://www.bricklink.com
+https://www.bricklink.com/catalogDownload.asp
+http://www.bartneck.de/publications/2016/legoViolence/index.html
+
+BrickLink is a website for buying and selling LEGOs. It also happens to publish a (nearly?) complete inventory of every LEGO set and piece produced since 1949. Related: LEGO sets have become increasingly violent, according to a recent study. [h/t Lindsey Cook]
+
+### Speling chellange.
+
+http://spellingbee.com/public/results/2016/round_results
+http://angrystatistician.blogspot.com/
+https://github.com/octonion/spelling
+http://fivethirtyeight.com/features/where-do-spelling-bee-words-come-from/
+
+The Scripps National Spelling Bee publishes the competition’s results online, but not in any analysis-friendly format. Thankfully, statistician Christopher Long has scraped and spreadsheet-ified the Scripps results going back to 1996 – including last week’s finals. Related: FiveThirtyEight uses the data to ask, “Where Do Spelling Bee Words Come From?”
+
+### Income inequality, country-by-country.
+
+https://www.wider.unu.edu/project/wiid-%E2%80%93-world-income-inequality-database
+https://en.wikipedia.org/wiki/Gini_coefficient
+https://www.wider.unu.edu/download/WIID3.3
+
+The United Nations University’s World Income Inequality Database contains historical Gini coefficients for more than 170 countries — in some instances stretching back to the 1930s or ‘40s. The latest version of the database was released in October 2015 and includes key details about each estimate, such as the name of the primary source and the quality of data collection.
+
+### Farmers in Africa.
+
+http://www.nature.com/articles/sdata201620?WT.ec_id=SDATA-201605
+
+Between 2002 and 2004, researchers surveyed more than 9,500 farming households in 11 African countries to better understand how climate change might affect agricultural practices. Last month, they published the detailed results and documentation in Scientific Data. The dataset includes responses to questions about plantings, harvests, yields, water sources, animal purchases, taxes paid, and much more.
+
+### Veterans in America.
+
+http://www.va.gov/vetdata/Veteran_Population.asp
+
+In 2014, approximately 22 million U.S. military veterans were still alive, including 1 million who served in World War II, 7.2 million who served during the Vietnam War era, and 3.9 million who have served in post-9/11 wars. Those numbers come from the VA’s National Center for Veterans Analysis and Statistics, which publishes estimates and future-projections of the country’s veteran population. You can explore the data by age, race, ethnicity, gender, military branch, state, county, era of service, and more. (To see the files, click on the “Population Tables” header.) [h/t Charles Worthington]
 
 ## Edition 2016.05.25
 
