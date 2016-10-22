@@ -1,6 +1,216 @@
 # [Data Is Plural](https://tinyletter.com/data-is-plural)
 
 Sign-up for newsletter @ https://tinyletter.com/data-is-plural
+
+## Edition 2016.08.03
+
+### Email like it’s 1993.
+
+http://qwone.com/~jason/20Newsgroups/
+https://en.wikipedia.org/wiki/Usenet_newsgroup
+
+The 20 Newsgroups dataset contains 20,000 messages (including some duplicates) sent to 20 Usenet bulletin boards in 1993. Among the groups: alt.atheism, misc.forsale, sci.electronics, talk.politics.guns, and talk.politics.mideast.
+
+### Measuring up.
+
+https://elifesciences.org/content/5/e13410
+http://www.ncdrisc.org/d-height.html
+
+A group of public health researchers have estimated the average height of adults in 200 countries over the course of a century. Their calculations are based on a re-analysis of 1,472 previous studies, which collectively measured nearly 19 million participants. The resulting dataset contains annual height estimates for both men and women born each year between 1896 and 1996. During that time, South Korean women’s average height increased by approximately 8 inches, the largest gain of any group. These days, the Netherlands boasts the tallest men, and Latvia the tallest women.
+
+### Electricity prices.
+
+http://www.eia.gov/electricity/monthly/epm_table_grapher.cfm?t=epmt_5_06_a
+http://www.eia.gov/electricity/monthly/
+
+In May 2016, U.S. residential consumers paid an average of roughly 12.8 cents per kilowatt hour of electricity. The price was lowest in Louisiana (9.28 cents) and Washington state (9.54 cents), and highest in Hawaii (26.87 cents) and Connecticut (21.63 cents). These data-points, and more, are available through the Energy Information Administration’s electric power reports, which are updated monthly. [h/t Jordan Wirfs-Brock]
+
+### Deaths in police custody.
+
+http://texasjusticeinitiative.org/
+http://www.theatlantic.com/politics/archive/2016/07/7000-deaths-in-custody-texas/493325/
+https://openjustice.doj.ca.gov/death-in-custody/overview
+https://openjustice.doj.ca.gov/data
+
+At least 6,913 people died while in the custody of Texas police, jails, and prisons between 2005 and 2015, according to the newly-launched Texas Justice Initiative. The data, gathered through freedom-of-information requests, contains the age, sex, and race/ethnicity of each person who died, as well as the general cause of death and a more detailed summary. Read more at: The Atlantic. Related: California’s Department of Justice publishes similar statistics and raw data. [h/t Melissa Segura + Reade Levinson]
+
+### Vaccination nations.
+
+http://www.who.int/immunization/monitoring_surveillance/data/en/
+
+The World Health Organization publishes a slew of datasets on national vaccination rates and policies. Some facts gleaned from the data: Asked whether they provided routine vaccinations to children at school, just 55% of 191 countries that responded said they did. And: In 2015, Equatorial Guinea reported that only 26% of infants had received a first dose of measles vaccine, a lower rate than any other country’s. [h/t Philip Shemella]
+
+## Edition 2016.07.27
+
+### Bigfoot sightings.
+
+http://www.bfro.net/
+http://www.bfro.net/news/google_earth.asp
+http://www.bfro.net/app/AllReportsKMZ.aspx
+http://www.joshuastevens.net/visualization/squatch-watch-92-years-of-bigfoot-sightings-in-us-and-canada/
+
+The Bigfoot Field Researchers Organization dubs itself “the only scientific research organization exploring the bigfoot/sasquatch mystery.” The BFRO collects and vets sighting reports, and publishes them online. (Direct link to KMZ file.) Related: “'Squatch Watch: 92 Years of Bigfoot Sightings in the US and Canada.” [h/t Joshua Stevens + Lynn Cherny]
+
+### Walrus hangouts.
+
+http://alaska.usgs.gov/products/data.php?dataid=74
+http://www.ibpn.ru/en/
+
+The Pacific walrus (Odobenus rosmarus divergens) accounts for the vast majority of walruses on the planet. When they’re not swimming, Pacific walruses like to rest at places called “haulouts.” A new dataset and study include details on 150 current and historic haulouts, the largest of which has been reported to attract more than 100,000 walruses. Miscellany: Three of the study’s authors work for the U.S. Department of the Interior; the fourth works for Russia’s Institute of Biological Problems of the North. [h/t Keith Collins]
+
+### Public libraries.
+
+https://www.imls.gov/research-evaluation/data-collection/public-libraries-united-states-survey/public-libraries-united
+https://www.imls.gov/research-evaluation/data-collection/museum-universe-data-file
+https://tinyletter.com/data-is-plural/letters/data-is-plural-2015-11-04-edition
+
+The U.S. Institute of Museum and Library Services annually collects responses from 9,000 public library systems. The results, currently available through 2013, include information about the libraries’ collection size, physical footprint, population served, hours, and more. Previously: Every known museum in the United States, featured Nov. 11, 2015.
+
+### Public transit.
+
+https://transit.land/
+https://transitfeeds.com/
+
+Transitland and TransitFeeds both aggregate data on routes, stops, and timetables from hundreds of public transit systems — from the Bay Area’s BART, to New York’s MTA, to Milan’s ATM, to Budapest’s BKK.
+
+### How we die.
+
+http://www.healthdata.org/gbd/data
+http://www.healthdata.org/gbd
+https://howwegettonext.com/where-we-live-and-how-we-die-36eeb4c256ab#.6g464ysu0
+
+The Global Burden of Disease dataset represents “the largest and most comprehensive effort to date to measure epidemiological levels and trends worldwide,” according to the Institute for Health Metrics and Evaluation, which runs the project. For each disease and each country, the dataset contains estimates of the total deaths, years of life lost, and years lived with disability. The estimates are currently available for 1990, 1995, 2000, 2005, 2010, and 2013. Related: “Where We Live and How We Die: What a year of death looks like around the world.” [h/t Mimi Onuoha + Data &amp; Society]
+
+## Edition 2016.07.20
+
+### Paperwork, work, work, work, work, work.
+
+http://www.reginfo.gov/public/do/PRASearch
+http://www.reginfo.gov/public/do/PRAXML
+
+Thanks to the Paperwork Reduction Act, federal agencies must get approval from the Office of Information and Regulatory Affairs for any “information collection” (e.g., a form) that seeks 10 or more responses. You can search all information collections — under review, approved, or rejected — online, or download an XML file of all active collections.
+
+### World heritage sites.
+
+http://whc.unesco.org/en/sessions/40COM/
+http://whc.unesco.org/en/newproperties/
+http://whc.unesco.org/en/syndication
+http://whc.unesco.org/en/criteria/
+
+Today, UNESCO’s World Heritage Committee will wrap up its 40th session, during which it has “inscribed” more than 20 new awe-inspiring places around the world. Online, the organization publishes spreadsheets and map files of 1,031 heritage sites it has previously inducted. For each site, the spreadsheet tracks its location, size, date inducted, category (“cultural,” “natural,” or “mixed”), and which selection criteria it met, and more. Through 2015, the countries with the largest number of heritage sites were Italy (51), China (48), and Spain (44).
+
+### 🔥 🔥 🔥 .
+
+https://www.usfa.fema.gov/data/nfirs/
+https://www.fema.gov/media-library/assets/documents/112009
+https://www.linkedin.com/pulse/nfirs-2014-available-dov-chelst
+https://github.com/dnchelst/NFIRS
+https://www.usfa.fema.gov/data/statistics/order_download_data.html
+https://apps.usfa.fema.gov/census-download/main/download
+https://apps.usfa.fema.gov/firefighter-fatalities/
+http://rmgsc.cr.usgs.gov/outgoing/GeoMAC/
+
+The National Fire Incident Reporting System (NFIRS) is “the world’s largest, national, annual database of fire incident information,” containing about 1 million fires per year, including wildfires, structure fires, vehicle fires, and more. NFIRS data from 2013 (and prior years) are available online from FEMA. Looking for 2014’s data? The government asks you to request it via postal mail; or you could trust the copy a public safety analyst uploaded in March. (See the links at the bottom of that page.) The U.S. Fire Administration, which maintains NFIRS, publishes additional datasets, including a spreadsheet of 27,000+ fire departments and a database of on-duty firefighter fatalities. Also, the U.S. Geological Survey publishes data on current and historical wildfire perimeters. [h/t Nick Penzenstadler + Nadja Popovich]
+
+### Tech support.
+
+http://stackoverflow.com/
+http://stackexchange.com/
+https://archive.org/details/stackexchange
+https://github.com/dgrtwo/StackLite
+https://data.stackexchange.com/
+
+StackOverflow is a Q&amp;A site for programmers, and part of the larger StackExchange network of Q&amp;A communities. StackExchange publishes periodic data dumps of the networks’ users, questions, answers, votes, and comments. On Monday, the company released “StackLite,” a smaller, easier-to-use slice of the data. (Even so, it contains metadata on more than 15 million questions.) If you don’t want to download anything, you can also explore and analyze the data online. [h/t David Robinson]
+
+### Coups d'état.
+
+http://www.jonathanmpowell.com/coup-detat-dataset.html
+
+Two political science professors at the University of Kentucky are compiling a dataset of coup attempts. So far, the dataset covers both successful and unsuccessful attempts from 1950 to late 2015. During those 65+ years, coup plotters have been foiled about half the time, with 236 victories and 238 failures. According to the dataset, Bolivia’s top leaders have faced 23 coup attempts, including 11 successful overthrows — more than any other country by either metric. [h/t Arthur Charpentier]
+
+## Edition 2016.07.13
+
+### Catch ‘em all.
+
+https://pokeapi.co/
+https://github.com/phalt/pokeapi/tree/master/data/v2/csv
+https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go
+
+Pokéapi is an API “detailing everything about the Pokémon main game series,” including every character, evolution, battle skill, and more. The data is also available as a series of CSVs. Currently, however, the dataset doesn’t include details from the so-hot-right-now Pokémon Go game.
+
+### Workplace safety.
+
+http://ogesdw.dol.gov/views/data_summary.php
+http://developer.dol.gov/health-and-safety/dol-osha-enforcement
+
+The U.S. Occupational Safety and Health Administration (OSHA) conducted 86,000 workplace inspections last year. The agency makes its inspection results — including investigations of fatal accidents and severe injuries — available in bulk and via an API.
+
+### Hundreds of millions of street addresses.
+
+https://openaddresses.io/
+https://results.openaddresses.io/
+https://trackchanges.postlight.com/open-source-geo-is-really-something-right-now-f8e310c5f57a#.t2f638jnj
+
+OpenAddresses.io is an effort to collect the official geocoordinates of the all the world’s physical addresses. (These data come from “authoritative” sources, such as city governments. When Google Maps tells you the location of an address, it’s often just a very-educated guess, extrapolated from coarser data.) As of Monday evening, the project had processed 265,078,567 addresses, mostly in North America, Europe, Japan, and Australia. Related: “Open-source geo is really something right now.”
+
+### The money bone
+
+https://www.cms.gov/Newsroom/MediaReleaseDatabase/Press-releases/2016-Press-releases-items/2016-06-30.html
+https://openpaymentsdata.cms.gov/
+https://www.cms.gov/OpenPayments/About/Natures-of-Payment.html
+https://projects.propublica.org/docdollars/
+
+. Late last month, the Centers for Medicare and Medicaid Services added data from 2015 to its Open Payments database, which tracks medical companies’ payments to doctors and teaching hospitals. The payments — which include consulting fees, gifts, honoraria, meals, drinks, grants, and more — totaled more than $7.5 billion last year. Related: ProPublica’s Dollars for Docs project, which began tracking medical industry payments in 2010, long before CMS released the OpenPayments database. [h/t Cat Ferguson + Chris Hamby]
+
+### Every United Nations vote, 1946–2014.
+
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/12379
+http://www.state.gov/p/io/rls/rpt/index.htm
+
+This repository contains voting data from each of the UN General Assembly’s the first 69 sessions. One spreadsheet summarizes the topic and results of each voted-upon resolution. (The dataset also indicates whether the U.S. State Department identified the vote as “important” — such those condemning human rights violations in Syria and North Korea — in its annual Voting Practices in the United Nations report.) Another file contains each country’s individual voting decisions. [h/t David Robinson]
+
+## Edition 2016.07.06
+
+### You shouldn’t point lasers at airplanes.
+
+http://www.faa.gov/news/press_releases/news_story.cfm?newsId=12765
+http://www.faa.gov/about/initiatives/lasers/laws/
+
+And yet, people do... by the thousands. In 2005, the Federal Aviation Administration created a system for pilots to report “laser events,” which it says can temporarily blind crewmembers. The administration has published five years of data from the reporting system. In 2014, the most recent year available, pilots reported 3,894 laser beamings. The vast majority involved a green beam, and none were reported to have caused an injury.
+
+### NYC property taxes and exemptions.
+
+http://chriswhong.com/open-data/liberating-data-from-nyc-property-tax-bills/
+http://iquantny.tumblr.com/post/146688053904/payer-or-prayer-a-look-at-nycs-650-million
+
+Property tax data in New York City is technically available to the public, but the city makes it difficult to access. So a pair of civic hackers liberated the data. Now you can download 1.1 million rows of bulk data, which details each property’s type, assessed value, taxes due, owner’s name, and more. You can also download 750,000 rows of tax exemptions and abatements. Related: “A Look at NYC’s $650 Million Property Tax Breaks Related to Religion”
+
+### Russian election results.
+
+http://arxiv.org/abs/1410.6059
+https://figshare.com/articles/kobakEtAl_AOAS2016_suppData_zip/3126883
+http://www.wsj.com/articles/SB10001424052970203391104577124540544822220
+
+In a recently-updated paper, three academics say they’ve found “convincing evidence of election fraud” in federal Russian elections since 2004. To support their analyses, the researchers have published the underlying data, which includes polling station data from seven Russian elections (as well as one Polish and one Spanish election, which showed no such signs of fraud). Related: WSJ analysis of Russian parliamentary election “points to widespread fraud” (2012). [h/t Arthur Bashlykov]
+
+### Nursing homes.
+
+https://correctiv.org/en/investigations/nursing-homes/guide/
+https://correctiv.org/en/investigations/nursing-homes/articles/2016/06/09/nursing-homes-what-we-know-what-we-do-not-know/
+https://github.com/correctiv/pflege-notebook
+http://projects.propublica.org/nursing-homes/
+https://data.medicare.gov/data/nursing-home-compare
+
+Last month, German investigative nonprofit Correctiv published a searchable database of 13,000 nursing homes in the country. The data are based on government inspections, and the reporters have published the raw and processed data on GitHub. Related: ProPublica’s searchable database of nursing homes in the United States and the Medicare’s nursing home data. [h/t Sandhya Kambhampati]
+
+### Public Policy.
+
+http://ippsr.msu.edu/public-policy/correlates-state-policy
+http://www.matthewg.org/correlatesofstatepolicyprojectv1Codebook.pdf
+http://www.statepolicyindex.com/about/
+
+The Correlates of State Policy Project aims to become a “one-stop shop” for data related to public policy in America’s 50 states. So far, the project is tracking 700+ aspects of each state’s laws, budgets, demographics, and more. Among the policy variables: Can pharmacies dispense emergency contraception without a prescription? Does the state ban corporal punishment in schools? and Does the state have an endangered species act? Don’t miss the codebook, which describes the data and sources in greater detail. Related: State and Local Public Policies in the United States, a similar project, for which an update to include 2014 data is “underway.” [h/t Rob Gillezeau]
+
 ## Edition 2016.06.22
 
 ### The Hum.
