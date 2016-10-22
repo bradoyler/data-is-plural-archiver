@@ -2,6 +2,418 @@
 
 Sign-up for newsletter @ https://tinyletter.com/data-is-plural
 
+## Edition 2016.10.19
+
+### Readers like you.
+
+https://github.com/data-is-plural/newsletter-stats#data-is-plural-newsletter-stats
+
+Today’s newsletter marks the 50th edition of Data Is Plural, as well as its one-year anniversary. To celebrate, I’ve started publishing a spreadsheet that details each edition’s basic stats — total subscribers, the “open rate,” the number of people who chose to unsubscribe, and more.
+
+### 8,675 farmers markets.
+
+https://catalog.data.gov/dataset/farmers-markets-geographic-data
+
+The Department of Agriculture publishes a spreadsheet of farmers markets in the United States. For each market, the dataset notes its location, hours, and the types of goods available (e.g., vegetables, seafood, flowers, et cetera). [h/t Susie Lu]
+
+### Global financial history.
+
+http://www.macrohistory.net/data/
+
+The Jordà-Schularick-Taylor Macrohistory Database claims to be “the most extensive long-run macro-financial dataset to date.” It contains dozens of variables — GDP per capita, long-term interest rates, and the timing of systemic financial crises, for example — for 17 “advanced economies”. The dataset uses a Creative Commons license and has been extensively documented.
+
+### County-level health care.
+
+http://ahrf.hrsa.gov/index.htm
+http://ahrf.hrsa.gov/download.htm
+http://ahrf.hrsa.gov/arfdashboard/HRCT.aspx
+http://ahrf.hrsa.gov/arfdashboard/ArfGeo.aspx
+
+Each year, the Department of Health and Human Services updates its Area Health Resources Files, a vast suite of local health care data collated from more than 50 sources. Among the topics covered: the number health care professionals by specialty, various rates of hospital usage, air quality, and demographic profiles. You can download the data, or explore and map it online. [h/t Ricardo Pietrobon]
+
+### American manufacturing.
+
+http://www.census.gov/programs-surveys/asm.html
+http://www.nytimes.com/2016/10/09/magazine/why-are-politicians-so-obsessed-with-manufacturing.html
+
+The Census Bureau’s Annual Survey of Manufacturers provides state-by-state and industry-by-industry statistics for America’s manufacturing sector. Metrics include the number of employees, annual payroll, “value added,” beginning-of-year inventory, and many more. In 2014, dog and cat food manufacturers employed about 18,000 people nationwide. Related: “Why Are Politicians So Obsessed With Manufacturing?” [h/t Scott Stern + RJ Andrews]
+
+## Edition 2016.10.12
+
+### “Murray, I think you dropped New Zealand's mineral exports for '08-'09.”
+
+https://www.youtube.com/watch?v=buoztHLk9JQ
+http://www.stats.govt.nz/
+http://www.stats.govt.nz/browse_for_stats/health/abortion.aspx
+http://www.stats.govt.nz/browse_for_stats/income-and-work/Strikes.aspx
+http://www.stats.govt.nz/browse_for_stats/people_and_communities/maori.aspx
+http://nzdotstat.stats.govt.nz/wbos/Index.aspx?DataSetCode=TABLECODE7311
+
+You don’t have to like Flight of the Conchords to enjoy New Zealand’s national statistics website, though it couldn’t hurt. The country publishes data on a broad range of topics, including abortion, work stoppages, the Māori census, and, of course, exports. In '08 and '09, the country exported NZD $3.5 billion and NZD $2.4 billion, respectively, of ”mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes.” [h/t Drew Ivan]
+
+### Computer memory prices.
+
+http://www.jcmit.com/index.htm
+http://www.jcmit.com/memoryprice.htm
+
+John C. McCallum has collected the advertised prices of computer memory over time. In 1957, one byte of memory cost $392, or the equivalent of $411 million per megabyte; today, one metabyte costs about a third of a cent. [h/t Jorge Luis]
+
+### Performances and exhibitions.
+
+https://github.com/nyphilarchive/PerformanceHistory/
+https://github.com/MuseumofModernArt/exhibitions
+http://www.moma.org/calendar/exhibitions/1767
+
+The New York Philharmonic’s performance history dataset contains “all known concerts” — more than 20,000 of ‘em — played by the Philharmonic and the groups with which it has merged (e.g., the New York Symphony). Last month, the Museum of Modern Art published a dataset containing “all of the known exhibitions held at the museum from 1929 through 1989” — 1,788 in total. The first featured Cézanne, Gauguin, Seurat, and van Gogh. [h/t Stacy-Marie Ishmael + Miriam Posner + Chad Weinard]
+
+### Forest cover.
+
+http://data.worldbank.org/indicator/AG.LND.FRST.K2
+http://data.worldbank.org/indicator/AG.LND.FRST.ZS?year_high_desc=true
+
+The World Bank keeps statistics on total forest coverage per country and worldwide. (Between 1990 and 2015, that worldwide total declined from 41.3 million to 40.0 million square kilometers.) More than 98% of all land area in Suriname was forest in 2015, according to a related dataset — the highest proportion of any country. [h/t Tariq Khokhar + Max Galka]
+
+### Presidential newspaper endorsements.
+
+https://twitter.com/veltman
+https://github.com/veltman/endorsements/
+http://noahveltman.com/endorsements/
+
+Noah Veltman has collected all presidential endorsements (and non-endorsements) of 100+ major newspapers from 1980 (Reagan vs. Carter) to 2016. You can view the data as a spreadsheet, or as a formatted table.
+
+## Edition 2016.10.05
+
+### Highway traffic.
+
+https://twitter.com/galka_max
+http://metrocosm.com/map-us-traffic/
+
+FOIA enthusiast Max Galka received a month of highway traffic data from the U.S. Department of Transportation. The dataset “includes hourly traffic counts for each hour of each day of [November 2015] at approximately 4,000 continuous traffic counting locations nationwide.” In all, the dataset “amounts to a total of 14 million traffic count readings and a total of 6 billion vehicles counted.”
+
+### R&D spending.
+
+http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS&lang=en
+http://www.uis.unesco.org/_LAYOUTS/UNESCO/research-and-development-spending/
+
+The UNESCO Institute for Statistics’ data on national research and development budgets contains estimates of personnel and total spending by field, funding source, and more. You can also explore the data online through a series of interactive graphics. [h/t Rebecca Galloway]
+
+### Student loan default rates.
+
+https://studentaid.ed.gov/sa/about/data-center/student/default
+http://www.ed.gov/news/press-releases/national-student-loan-cohort-default-rate-declines-steadily
+https://www.buzzfeed.com/mollyhensleyclancy/these-colleges-have-the-worst-student-loan-default-rates
+https://twitter.com/mollyhc
+
+The federal government publishes default rates for federal student loans, aggregated by school, state, and school type. Last week, it published data covering students whose loans were due for repayment beginning in FY2013.The national default rate for those students as of this August was 11.3%. At certain schools, however, more than a third of students defaulted. More: Some background on the 10 colleges with highest default rates, by my colleague Molly Hensley-Clancy.
+
+### Educational attainment.
+
+http://www.wittgensteincentre.org/en/index.htm
+https://www.cambridge.org/core/journals/journal-of-demographic-economics/article/a-harmonized-dataset-on-global-educational-attainment-between-1970-and-2060-an-analytical-window-into-recent-trends-and-future-prospects-in-human-capital-development/D5540E2C23E4CB89AF08ECD9379B38FD
+http://www.oeaw.ac.at/fileadmin/subsites/Institute/VID/dataexplorer/index.html
+
+Researchers at the Vienna-based Wittgenstein Centre for Demography and Global Human Capital have developed a dataset of historical and projected education levels for 171 countries. For five-year age groups in each country, the project estimates the percentage of people in each of several categories of educational attainment — no education, primary education, secondary education, post-secondary education, and a few gradations in between. The dataset is available to browse and download via the Wittgenstein Centre Data Explorer – look for “Educational Attainment Distribution” in the “indicators” dropdown.
+
+### Global foreign aid.
+
+http://aiddata.org/about-aiddatas-work
+http://aiddata.org/country-level-research-datasets
+http://aiddata.org/subnational-geospatial-research-datasets
+http://aiddata.org/data-user-guide
+http://beta.foreignassistance.gov/
+https://tinyletter.com/data-is-plural/letters/data-is-plural-2016-01-13-edition
+
+AidData, an organization based at the College of William &amp; Mary, has compiled a dataset of more than 1.5 million foreign aid projects between 1947 and 2013. Together, the dataset accounts for more than $7 trillion in commitments from 96 donors such as the U.S. government, UNICEF, the Nordic Development Fund, and the World Bank. AidData also publishes geospatial datasets and a data user guide. Previously: ForeignAssistance.gov, featured Jan. 13. [h/t Kedar Pavgi]
+
+## Edition 2016.09.28
+
+### Bush v. Gore v. hanging chads.
+
+http://www.electionstudies.org/florida2000/sponsors.htm
+http://www.electionstudies.org/florida2000/index.htm
+http://www.nytimes.com/2001/11/12/us/examining-vote-overview-study-disputed-florida-ballots-finds-justices-did-not.html
+http://www.electionstudies.org/florida2000/data/data_files.htm
+
+After 2000’s contentious election, the National Opinion Research Center — funded by a consortium of news organizations — rigorously reviewed 175,010 Florida ballots that weren’t recognized as “valid” votes for president. In November 2001 the researchers concluded that, even with a full recount of disputed ballots, George W. Bush still would have won the state by 493 votes. The underlying data is available in several formats.
+
+### Global elections.
+
+http://www.electiondataarchive.org/
+http://www.electiondataarchive.org/datacenter.html
+
+The Constituency-Level Elections Archive, based at the University of Michigan, collects and standardizes results from lower-house legislative elections around the world. (In the U.S., the lower house is the House of Representatives; in the U.K., it’s the House of Commons; in Albania, it’s the Kuvendi i Shqipërisë.) The latest release covers 1,591 elections from 136 countries. [h/t Jeremy Darrington]
+
+### Ways and means.
+
+http://www.eac.gov/
+http://www.eac.gov/research/election_administration_and_voting_survey.aspx
+
+The U.S. Election Assistance Commission’s Election Administration and Voting Survey “includes data on the ability of civilian, military and overseas citizens to register to vote and successfully cast a ballot,” as well as an overview of each state’s voting laws and procedures. [h/t Derek Willis]
+
+### County-level and precinct-level results.
+
+http://www.openelections.net/
+http://openelections.net/about/
+http://openelections.net/get-involved/
+https://catalog.data.gov/dataset/2004-presidential-general-election-county-results-direct-download
+https://catalog.data.gov/dataset/2008-presidential-general-election-county-results-direct-download
+https://catalog.data.gov/dataset/presidential-general-election-results-2012-direct-download
+https://github.com/helloworlddata/us-presidential-election-county-results
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/21919
+http://projects.iq.harvard.edu/eda/
+https://dl.dropboxusercontent.com/u/156214/heda_docs.pdf
+
+OpenElections, a Knight Foundation–funded project, aims “to create the first free, comprehensive, standardized, linked set of election data for the United States.” They’ve made progress, but are looking for additional volunteers. In the meantime, you can download county-level presidential results from the National Atlas of the United States for 2004, 2008, and 2012 — or all combined. And you can download precinct-level results from 2002 to 2012 from the Harvard Election Data Archive (codebook here).
+
+### State-level results.
+
+http://www.fec.gov/pubrec/electionresults.shtml
+
+Perhaps better known for its campaign-finance data, the Federal Election Commission also publishes official state-level results for presidential, House, and Senate elections going back to 1982. The results include all official candidates, and sometimes even write-ins (depending on the state). In the 2008 presidential election, eight Rhode Island voters wrote-in “Stephen Colbert,” five scribbled “Joe the Plumber,” and seven chose “Jesus.”
+
+## Edition 2016.09.14
+
+### Captionless cartoons, captioned.
+
+http://arxiv.org/abs/1506.08126
+http://clair.si.umich.edu/homepage/downloads.html
+
+A group of computer scientists and the New Yorker’s cartoon editor walk into a room… and write an academic article titled, “Humor in Collective Discourse: Unsupervised Funniness Detection in the New Yorker Cartoon Caption Contest.” The corresponding dataset — available via the “cartoons” link on this page — includes 50 cartoons and nearly 300,000 reader-submitted captions.
+
+### State prison admissions, by county.
+
+https://github.com/TheUpshot/prison-admissions
+http://www.icpsr.umich.edu/icpsrweb/NACJD/series/38/studies/36373?archive=NACJD&sortBy=7
+http://www.nytimes.com/2016/09/02/upshot/new-geography-of-prisons.html
+
+Reporters at the New York Times have assembled a dataset counting the number of inmates each U.S. county sent to state prison in 2006, 2013, and 2014. The reporters derived the numbers from the Bureau of Justice Statistics’ National Corrections Reporting Program, which only certain researchers can access. Related: “This small Indiana county sends more people to prison than San Francisco and Durham, N.C., combined. Why?”
+
+### Sea ice.
+
+https://nsidc.org/about/overview
+https://nsidc.org/data/seaice_index/
+http://nsidc.org/data/docs/noaa/g02135_seaice_index/
+http://nsidc.org/arcticseaicenews/2016/09/arctic-sea-ice-nears-its-minimum-extent-for-the-year/
+
+The National Snow and Ice Data Center, based at the University of Colorado, publishes the Sea Ice Index. The data files, which track ice coverage in the Arctic and Antarctic oceans, include daily and monthly measurements from November 1978 to the present. Lately, the extent of sea ice on the Arctic Ocean has been two or more standard deviations below its long-term average, according to the center, while Antarctic sea ice remained at average levels. [h/t Dan Vergano]
+
+### Health habits.
+
+http://www.cdc.gov/brfss/
+
+The CDC calls its Behavioral Risk Factor Surveillance System “the largest continuously conducted health survey system in the world.” Every year, the survey asks more than 400,000 American adults about a range of health-related topics, from tobacco to seatbelt use, from alcohol consumption to arthritis, from HIV testing to immunizations. Annual datasets from 1984–2015 are currently available. [h/t Ricardo Pietrobon]
+
+### Minimum wages.
+
+http://equitablegrowth.org/
+https://github.com/equitablegrowth/VZ_historicalminwage/releases
+http://data.bls.gov/cgi-bin/cpicalc.pl?cost1=2&year1=1974&year2=2016
+
+Researchers at the Washington Center for Equitable Growth have compiled a dataset of current and historical minimum wages in America. The federal and state minimum-wage data stretches back to May 1974 — when the federal minimum was $2.00 per hour, or roughly equivalent $9.76 per hour in today’s dollars — while the data for cities and counties starts in January 2004. [h/t Ben Casselman]
+
+## Edition 2016.09.07
+
+### The federal fleet.
+
+http://www.gsa.gov/portal/content/102943
+
+The U.S. General Services Administration publishes an annual dataset about vehicles owned and leased by the federal government. The spreadsheets — which contain details on total inventories, cost, usage, and fuel consumption — go back to fiscal year 2011. In FY 2015, federal vehicles drove 4.8 billion miles, down about 9% from FY 2011. [h/t John Templon]
+
+### Innovation nation.
+
+http://www.nature.com/articles/sdata201674
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BPC15W
+http://www.nber.org/patents/
+https://developer.uspto.gov/product/cancer-moonshot-patent-data
+
+Last week, a team of researchers published HistPat, a database containing county-of-residence data for 2.8 million U.S. patents granted between 1836 and 1975. The database covers approximately 83% of all patents granted to U.S. residents during that time, according to the authors. The most frequent home counties for innovation were New York County (422,234 patents); Cook County, Ill. (215,021), and Los Angeles County (90,171). Related: The National Bureau of Economic Research’s dataset of patent citations, 1975-1999. And: “Cancer moonshot” patents, 1976–2016. [h/t Drew Ivan]
+
+### Night lights.
+
+http://advances.sciencemag.org/content/2/6/e1600377.full
+http://pmd.gfz-potsdam.de/contact/showshort.php?id=escidoc:1541893&contactform
+http://pmd.gfz-potsdam.de/contact/showshort.php?id=escidoc:1541893&contactform
+
+Earlier this summer, a group researchers published a “new world atlas of artificial night sky brightness,” also known as light pollution. You can download a KMZ version of their atlas and view it in Google Earth. The researchers haven’t made their most detailed, “floating point” dataset available for public download; instead, they ask that you first submit a data-request form. [h/t Matthew Petroff]
+
+### Radio rights.
+
+http://reboot.fcc.gov/blog?entryId=752037
+https://www.fcc.gov/licensing-databases/licensing
+http://reboot.fcc.gov/license-view/
+http://reboot.fcc.gov/license-view/search-results.html
+https://www.fcc.gov/general/license-view-api
+
+The Federal Communications Commission decides who can use the nation’s airwaves and how. To date, they’ve issued millions of licenses, including nearly 200,000 last year for broadcast, personal use, law enforcement, and more. Almost exactly six years ago, the FCC launched a consolidated portal that pulls data from its various licensing systems into a single dataset. You can download all 17 million licenses in bulk, search for specific licenses online, or query the dataset’s API. [h/t Marc DaCosta]
+
+### Healthcare spending.
+
+https://meps.ahrq.gov/mepsweb/
+https://meps.ahrq.gov/mepsweb/data_stats/download_data_files.jsp
+https://meps.ahrq.gov/mepsweb/data_stats/quick_tables.jsp
+https://meps.ahrq.gov/mepsweb/data_stats/tables_compendia_hh_interactive.jsp?_SERVICE=MEPSSocket0&_PROGRAM=MEPSPGM.TC.SAS&File=HCFY2013&Table=HCFY2013_PLEXP_A&VAR1=AGE&VAR2=SEX&VAR3=RACETH5C&VAR4=INSURCOV&VAR5=POVCAT13&VAR6=REGION&VAR7=HEALTH&VARO1=4+17+44+64&VARO2=1&VARO3=1&VARO4=1&VARO5=1&VARO6=1&VARO7=1&_Debug=
+
+Since 1996, the Medical Expenditure Panel Survey has collected data on “the specific health services that Americans use,” and the “health insurance held by and available to U.S. workers.” In a typical year, the survey collects data from more than 30,000 people from more than 10,000 families. In addition to the raw data files, the Agency for Healthcare Research and Quality, which runs the survey, also provides summary data tables. They show that, for example, in 2013 an estimated 61% of Americans faced expenses for prescription drugs, which cost the median patient about $278 before insurance. [h/t Ricardo Pietrobon]
+
+## Edition 2016.08.31
+
+### Tennis time.
+
+http://www.tennisabstract.com/
+https://github.com/JeffSackmann
+https://github.com/JeffSackmann/tennis_atp
+https://github.com/JeffSackmann/tennis_wta
+http://fivethirtyeight.com/features/how-were-forecasting-the-2016-us-open/
+https://github.com/popovichN/grand-slam-prize-money
+https://www.buzzfeed.com/heidiblake/the-tennis-racket
+
+The 2016 U.S. Open began on Monday. It’s as good an occasion as any to highlight the work of. TennisAbstract.com’s Jeff Sackmann, who has published decades of match results and historical rankings from the men’s ATP and women’s WTA tours. Related: How FiveThirtyEight is using the data to forecast this year’s U.S. Open. Also: Prize money for the four Grand Slam tournaments, by gender and over time. And: The Tennis Racket. [h/t Nadja Popovich + John Templon]
+
+### The California Database Hunt.
+
+https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201520160SB272
+https://www.eff.org/deeplinks/2016/08/transparency-advocates-collect-more-400-database-catalogs
+
+California Senate Bill 272, enacted last year, required every local government agencies to publish a “catalog of enterprise systems” — essentially a guide to all the big databases they keep — by July 1 of this year. To find out who complied, a group of data-transparency organizations hosted the California Database Hunt last weekend. Volunteers searched 680 agencies, and published two spreadsheets of their findings: 430 (63%) of local agencies had posted their database catalogs, while 250 had not. [h/t Stephanie M. Lee]
+
+### Global agriculture.
+
+http://www.earthstat.org/
+
+EarthStat provides geographic data on harvest regions, yields, and fertilizer use for more than 100 crops. The website also publishes data on pasture land, water depletion, and climatological effects on crop yields.
+
+### Fatal car crashes.
+
+https://www.transportation.gov/fastlane/2015-traffic-fatalities-data-has-just-been-released-call-action-download-and-analyze
+http://www.nhtsa.gov/FARS
+
+On Monday, the Department of Transportation released 2015 data from its Fatality Analysis Reporting System. The dataset contains detailed information about every fatal motor-vehicle crash in the U.S., aggregated from a variety of state databases, including police reports, death certificates, and licensing files. In 2015, such crashes led to 35,092 deaths, 7.2% more than in 2014. [h/t Tanya Snyder]
+
+### Family money.
+
+http://psidonline.isr.umich.edu/
+
+The Panel Study of Income Dynamics is “the longest running longitudinal household survey in the world,” according to its University of Michigan overseers. The study, which began in 1968, has interviewed more than 70,000 people, including four generations of some families. You can access the data for free, but you first need to register for an account and agree to a set of guidelines. An example insight: In 2013 — the most recent year for which data is available — approximately 11% of families said they owned a business in the previous year. [h/t Don Fullerton + Nirupama S. Rao]
+
+## Edition 2016.08.24
+
+### German traffic signs:
+
+http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
+
+The German Traffic Sign Recognition Benchmark dataset contains 50,000+ images of 43 kinds of German traffic signs — from the classic “STOP,” to various speed limits, to roundabout indicators. The dataset, published by researchers at Ruhr-Universität Bochum’s Institut für Neuroinformatik, formed the basis of a 2011 machine-learning competition. [h/t Viktor Schepik]
+
+### New York racehorse deaths and injuries.
+
+https://data.ny.gov/Government-Finance/Equine-Death-and-Breakdown/q6ts-kwhk
+http://www.nytimes.com/2015/01/18/sports/horses-deaths-at-aqueduct-prompt-new-rules.html
+
+New York State tracks every time a horse has been injured or died at a state race track since March 2009. The dataset, which is updated often, also includes a few other types of incidents, such as when a rider falls or horse loses badly. Related: “Horses’ Deaths at Aqueduct Prompt New Rules.” [h/t Mark Secada]
+
+### Oil concessions.
+
+http://openoil.net/
+http://repository.openoil.net/wiki/Concession_Layer_Methodology
+http://maps.openoil.net/concessions/
+
+The OpenOil project aims to collect and standardizes data oil and gas development contracts around the world. So far, they’ve gathered at least some data from more than 60 countries. They’ve also published a map of oil concessions in the Middle East and Africa. [h/t Michael Gardiner]
+
+### One billion Australian healthcare claims.
+
+https://data.gov.au/dataset/a8e3c0bc-44ac-4e9a-8b3c-b779438ddb10
+
+Australia’s Department of Health has recently released an enormous dataset of Medicare and subsidized-prescription claims. It includes all claims from a random 10% sample of patients, and “contains approximately 1 billion lines of data relating to approximately 3 million Australians.” The Medicare claims go back to 1984, and the prescription claims go back to 2003. [h/t Drew Ivan]
+
+### Crime in cities.
+
+https://github.com/themarshallproject/city-crime
+https://www.themarshallproject.org/2016/08/18/crime-in-context
+
+The Marshall Project has collected and analyzed four decades of FBI data “on the most serious violent crimes in 68 police jurisdictions.” The FBI data covers 1975 through 2014; the reporters “also obtained data directly from 61 local agencies for 2015 — a period for which the FBI has not yet released its numbers.” Between 2010 and 2015, violent crime increased most in Milwaukee (+11%) and declined most in Prince George’s County, Md. (-22%).
+
+## Edition 2016.08.17
+
+### Hunter-gatherers.
+
+https://en.wikipedia.org/wiki/Lewis_Binford
+http://ajohnson.sites.truman.edu/data-and-program/
+
+In the 1990s, ethnoarchaeologist Lewis Binford digitized more than 200 variables describing 339 groups of hunter-gatherers, a project his collaborator and widow Amber Johnson continues to maintain. The data come from historical ethnographies of societies, ranging from the Chichimec of the 1570s (in what is now Mexico), to the Dorobo of the 1920s (in what is now Kenya), to the Shompen of the 1980s (in the Nicobar Islands).
+
+### Relative living standards.
+
+http://www.rug.nl/research/ggdc/data/pwt/
+https://en.wikipedia.org/wiki/National_accounts
+
+The Penn World Table contains GDP estimates, normalized for purchasing power, for 182 countries. These “real GDP” estimates — based on a combination of price surveys and national accounts data — stretch back at least to 1960, and many to 1950. In the most recent year available, 2014, Qatar’s real GDP per capita ranked highest: roughly $144,340 in 2011 U.S. dollars. The Central African Republic’s ranked lowest (~$594), and the United States’ ranked 11th (~$52,292). [h/t Willem Kerstholt]
+
+### Music makers.
+
+http://www.ascap.com/about
+https://mobile.ascap.com/aceclient/AceWeb/
+
+The American Society of Composers, Authors and Publishers (ASCAP) boasts a membership of “more than 585,000 US composers, songwriters, lyricists and music publishers of every kind of music.“ The organization also maintains a downloadable catalog of the writers and publishers behind nearly 9 million songs. (But the downloaded files lack key details, such as the date the song was published.)
+
+### Internet access.
+
+https://www.fcc.gov/general/broadband-deployment-data-fcc-form-477
+https://www.fcc.gov/health/maps/methodology
+
+Through its Form 477 program, the Federal Communications Commission collects detailed data on broadband internet access in the United States. One of the easiest ways to access county-level data is through the agency's Mapping Broadband Health in America project, which overlays internet access data and physical health indicators. The latest tabulations come from 2014. In more than a quarter of counties with at least 1,000 residents that year, broadband reached less than 50% of the population.
+
+### Beaches.
+
+https://watersgeo.epa.gov/beacon2/reports.html
+http://www.fs.fed.us/visit/destination/oregon-dunes-national-recreation-area-%E2%80%93-south-jetty-area
+
+The U.S. Environmental Protection Agency’s BEACON system contains data on more than 5,000 public beaches. For each state’s most “significant” beaches, BEACON’s downloadable reports include data on water quality, pollution advisories, closures, and more. Of these highly-visited beaches, the longest — at nearly 24 miles — is the Oregon Dunes National Recreation Area’s South Jetty, also home to “the largest expanse of coastal sand dunes in North America.”
+
+## Edition 2016.08.10
+
+### Heartbeats.
+
+http://physionet.org/physiobank/database/challenge/2016/
+https://en.wikipedia.org/wiki/Phonocardiogram
+http://physionet.org/challenge/2016/#introduction
+
+PhysioNet has published sound and data files for more than 3,000 heart recordings (a.k.a. phonocardiograms). The files support PhysioNet’s 2016 contest, which seeks algorithms that can detect abnormal heart sounds. [h/t Joe Isaacson]
+
+### Rocks.
+
+https://macrostrat.org/
+https://macrostrat.org/#api
+https://macrostrat.org/burwell/
+http://fc.umn.edu/
+
+Macrostrat.org provides data and maps on thousands of geologic formations around the world. The database currently includes 1,474 “regional columns,” 33,903 “rock units,” and 1,750,044 “geologic map polygons.” You can also explore the data through the University of Minnesota’s “Flyover Country” iOS and Android apps. [h/t Grant J. Smith]
+
+### Hospital ratings.
+
+https://www.medicare.gov/hospitalcompare/Data/Data-Updated.html#
+https://data.medicare.gov/data/archives/hospital-compare
+https://www.medicare.gov/hospitalcompare/Data/Hospital-overall-ratings-calculation.html
+https://www.medicare.gov/HospitalCompare/search.html
+
+The Centers for Medicare &amp; Medicaid Services evaluates hospitals on dozens of measures — relating to safety, timeliness of care, patient satisfaction, and more — and publishes the results online as the “Hospital Compare” dataset. The dataset also includes an overall score, which distills each hospital’s results into a single five-star rating. If you don’t want to download the data, you can explore the results online. [h/t Drew Ivan]
+
+### U.S. slave populations, 1790–1860.
+
+http://lincolnmullen.com/
+https://github.com/lmullen/slavery-map/blob/master/census.csv
+http://lincolnmullen.com/projects/slavery/
+https://tinyletter.com/data-is-plural/letters/data-is-plural-2015-12-30-edition
+https://tinyletter.com/data-is-plural/letters/data-is-plural-2016-01-20-edition
+
+For more than a century, the U.S. Census collected slave population figures. An assistant professor at George Mason University has aggregated that data, and mapped it. He cautions: “Treat the Census numbers skeptically: even in the best of circumstances the Census undercounts the population.” Previously: New Orleans slave sales in the December 30 edition; slave ship voyages in the January 20 edition.
+
+### Pretrial inmates.
+
+https://data.ct.gov/Public-Safety/Accused-Pre-Trial-Inmates-in-Correctional-Faciltie/b674-jy6w
+http://www.newhavenindependent.org/index.php/archives/entry/bail_reform1/
+http://trendct.org/2016/07/20/pre-trial-inmates/
+
+Connecticut has begun publishing a daily census of every inmate held in jail while awaiting trial. Starting July 1, the database contains one row per inmate per day; each row includes basic demographic data (age, gender, race), as well as the inmate’s bond amount, main offense, and jail location. Read more at: The New Haven Independent and TrendCT. Question: This release seems unprecedented; does any other state or country publish such detailed data on pretrial inmates? [h/t Camille Seaberry]
+
 ## Edition 2016.08.03
 
 ### Email like it’s 1993.
