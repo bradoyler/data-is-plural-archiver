@@ -2,6 +2,217 @@
 
 Sign-up for newsletter @ https://tinyletter.com/data-is-plural
 
+## Edition 2016.12.07
+
+### Classical music, annotated.
+
+http://homes.cs.washington.edu/~thickstn/musicnet.html
+
+“MusicNet is a collection of 330 freely-licensed classical music recordings, together with over 1 million annotated labels indicating the precise time of each note every recording, the instrument that plays each note, and the note's position in the metrical structure of the composition.” [h/t Lon Riesberg]
+
+### STEM surveys.
+
+https://highered.ipums.org/highered/
+
+The IPUMS Higher Ed portal provides data from three “leading surveys for studying the science and engineering (STEM) workforce in the United States.” The surveys currently cover 1993 through 2013 and include questions about educational choices, demographics, employment outcomes, and more. Requires a free account. [h/t Michael A. Rice, a teacher at Ingraham High School in Seattle]
+
+### Chicago cab rides.
+
+http://digital.cityofchicago.org/index.php/chicago-taxi-data-released/
+https://data.cityofchicago.org/Transportation/Taxi-Trips-Dashboard/spcw-brbq
+http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/
+
+Last month, Chicago’s city government published data on more than 100 million local taxi rides taken in the city since 2013. (The city gathers the data through “periodic reporting by two major payment processors believed to cover most taxis in Chicago.”) The dataset contains each ride’s start/end times, pickup/dropoff location (based on Chicago’s “community areas”), distance, cost, payment type, and taxi company. Related: “Analyzing 1.1 Billion NYC Taxi and Uber Trips, with a Vengeance,” which contains pointers to similar data for New York City. [h/t Dan Nguyen]
+
+### Solar panels.
+
+https://openpv.nrel.gov/index
+
+The Open PV Project is a “community driven, comprehensive database” of solar panel installations in the U.S., ranging from home installations to utility-scale projects. The database, run by the Department of Energy, contains more than 1 million installations — with a total capacity of 16,000+ megawatts — and tracks their locations, sizes, costs, installers, and other variables. [h/t Dad]
+
+### Pipelines.
+
+https://www.eia.gov/maps/layer_info-m.php
+http://www.phmsa.dot.gov/pipeline/library/data-stats/flagged-data-files
+https://www.washingtonpost.com/graphics/national/maps-of-american-infrastrucure/
+https://projects.propublica.org/pipelines/
+
+The U.S. Energy Information Administration publishes a bunch of geographic data, including shapefiles mapping the country’s crude oil, petroleum product, hydrocarbon gas liquid, and natural gas pipelines. (They were last updated five months ago.) Additionally, the Pipeline and Hazardous Materials Safety Administration keeps track of “significant incidents” — for example, those that caused a serious injury or $50,000 in damage. Related: “Six maps that show the anatomy of America’s vast infrastructure.” Also related: ProPublica’s Pipeline Safety Tracker, covering 1986–2012.
+
+## Edition 2016.11.30
+
+### I’ll take “Datasets” for $200.
+
+https://www.reddit.com/user/trexmatt/
+https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/
+http://www.j-archive.com/
+http://www.slate.com/articles/arts/culturebox/2011/02/this_fanmaintained_episode_database_helps_contestants_prepare_for_jeopardy.html
+
+A few years ago, Reddit user trexmatt uploaded 216,930 Jeopardy! trivia-tidbits, scraped from j-archive.com, “the nearly comprehensive online Jeopardy! archive maintained by obsessive fans.” Each entry lists the question, answer, category, value, round, show number, and show air-date.
+
+### Five years of Facebook posts from 15 news sites.
+
+https://www.facebook.com/Patrick.Martinchek
+https://data.world/martinchek/2012-2016-facebook-posts
+https://shift.newco.co/what-i-discovered-about-trump-and-clinton-from-analyzing-4-million-facebook-posts-922a4381fd2f
+
+Data analyst Patrick Martinchek has published a dataset of all Facebook posts from “15 of the top mainstream media sources” — a group that includes The New York Times, The Wall Street Journal, NPR, Fox News, and other familiar sources — from January 2012 through Nov. 8, 2016. Related: “What I Discovered About Trump and Clinton From Analyzing 4 Million Facebook Posts.”
+
+### Comparing election forecasts.
+
+https://www.buzzfeed.com/jsvine/grading-the-2016-election-forecasts
+https://www.buzzfeed.com/jsvine/2016-election-forecast-grades
+https://github.com/BuzzFeedNews/2016-11-grading-the-election-forecasts
+
+This year, I decided to grade a bunch of prominent election forecasts for BuzzFeed News. Now that Michigan has finally been called, I’ve published the results. I’ve also published the underlying data and code on GitHub, including state-level predictions from all nine forecasters in the analysis.
+
+### Gunshot detections.
+
+http://www.forbes.com/sites/mattdrange/2016/11/17/shotspotter-struggles-to-prove-impact-as-silicon-valley-answer-to-gun-violence/
+http://www.forbes.com/sites/mattdrange/2016/11/17/shotspotter-alerts-police-to-lots-of-gunfire-but-produces-few-tangible-results
+
+Earlier this month, Forbes published an examination of ShotSpotter, a company that uses networks of outdoor microphones to detect and locate gunshot-like sounds. Forbes found that ShotSpotter has produced “few tangible results.” “In some cities, ShotSpotter hasn’t had the effect city officials and residents had hoped for. While officers are responding to more illegal gunfire, they rarely catch the shooter.” To support its findings, Forbes has published the ShotSpotter data they received from police departments in seven cities: Brockton, Mass.; East Palo Alto, Calif.; Kansas City, Mo.; Milwaukee, Wis.; Omaha, Neb.; San Francisco, Calif.; and Wilmington, N.C. The data varies somewhat for each city, but typically includes the date, time, location, and outcome of the each gunshot alert. [h/t Matt Drange]
+
+### What kills us.
+
+https://wonder.cdc.gov/ucd-icd10.html
+https://wonder.cdc.gov/wonder/help/ucd.html
+https://wonder.cdc.gov/mortSQL.html
+
+The CDC’s Underlying Cause of Death database provides county-level mortality statistics based on death certificates of U.S. residents for each year from 1999 to 2014. The tool lets you group the data by geography, demographics, place of death (e.g., inpatient hospital, hospice, home, etc.), and other variables. In 2014, for example, about 40,000 residents died of pancreatic cancer — with the highest rates coming in America’s most-rural counties (~15.6 deaths per 100,000 residents) and the lowest rates in country’s most-urban counties (~11.3 per 100,000). The CDC’s “compressed mortality” datasets contain slightly less detail, but go all the way back to 1968. [h/t Drew Ivan]
+
+## Edition 2016.11.16
+
+### Every street tree in NYC.
+
+https://www.nycgovparks.org/trees/treescount
+https://tree-map.nycgovparks.org/
+https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Blockface-Data/ju3b-rwpy
+https://data.cityofnewyork.us/browse?q=Street%20Tree%20Census
+
+Earlier this month, New York City published the results of its decennial tree count. You can explore a map of every street tree in NYC — nearly 700,000 of ‘em — or download the corresponding dataset, which contains info on each tree’s species, circumference, health status, and other observations. (Note: That dataset appears to contain about one-third fewer trees than the map’s count, for reasons I can’t quite figure out.) Results of the 1995 and 2005 tree censuses are also available.
+
+### The most important entries on Wikipedia.
+
+https://twitter.com/thalhamm
+https://en.wikipedia.org/wiki/PageRank
+http://people.aifb.kit.edu/ath/#DBpedia_PageRank
+http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&qtxt=PREFIX+rdf%3A%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0D%0APREFIX+vrank%3A%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0D%0APREFIX+dbo%3A%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0D%0A%0D%0ASELECT+%3Fs+%3Fv+%0D%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E+%0D%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E+%0D%0AWHERE+{%0D%0A%3Fs+rdf%3Atype+dbo%3AUniversity.%0D%0A%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv.%0D%0A}%0D%0AORDER+BY+DESC%28%3Fv%29+LIMIT+50%0D%0A&format=text%2Fhtml&CXML_redir_for_subjs=121&CXML_redir_for_hrefs=&timeout=30000&debug=on
+http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=PREFIX+rdf%3A%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0D%0APREFIX+vrank%3A%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0D%0APREFIX+dbo%3A%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0D%0A%0D%0ASELECT+%3Fs+%3Fv+%0D%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E+%0D%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E+%0D%0AWHERE+%7B%0D%0A%3Fs+rdf%3Atype+dbo%3APhilosopher.%0D%0A%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv.%0D%0A%7D%0D%0AORDER+BY+DESC%28%3Fv%29+LIMIT+50%0D%0A&format=text%2Fhtml&CXML_redir_for_subjs=121&CXML_redir_for_hrefs=&timeout=30000&debug=on
+
+Germany-based researcher Andreas Thalhammer has applied PageRank — the algorithm at the heart of Google’s origin story — to the world of Wikipedia. The result: the DBpedia PageRank dataset, which estimates the importance of each page based on the other pages that link to it. You can download the data directly, or query it online. (According to the metric, Aristotle, Plato, and Karl Marx are history’s three most Wiki-central philosophers.)
+
+### Election Day on “the front page of the internet.”
+
+https://www.reddit.com/user/Stuck_In_the_Matrix
+https://www.reddit.com/r/datasets/comments/5ch2bq/reddit_raw_election_data_comments_and_submissions/
+https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/
+https://tinyletter.com/data-is-plural/letters/data-is-plural-2015-11-25-edition
+
+Jason Baumgartner — a.k.a. Stuck_In_the_Matrix — has collected and published every submission and comment posted to Reddit from November 8th through November 10th. For each of the nearly 8 million comments, the dataset includes the message, the author, the subreddit it was posted to, the comment thread’s ID, and more. Previously: 1.7 billion Reddit comments, featured Nov. 25, 2015.
+
+### Fake news on Facebook.
+
+https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis
+https://github.com/BuzzFeedNews/2016-10-facebook-fact-check
+https://www.buzzfeed.com/stephaniemlee/zuckerberg-techonomy-fake-news-election
+https://www.buzzfeed.com/sheerafrenkel/renegade-facebook-employees-form-task-force-to-battle-fake-n
+
+Last month, colleagues at BuzzFeed News and I analyzed and fact-checked 1,000+ posts from hyperpartisan Facebook pages, and found a disturbingly high rate of fake news. Here’s the data. Facebook CEO Mark Zuckerberg has dismissed the possibility that fake news influenced the election, calling it a “pretty crazy idea”. Meanwhile, renegade Facebook employees have now formed an unofficial task force to battle fake news on the platform.
+
+### Hate crimes in the United States.
+
+https://www.fbi.gov/news/pressrel/press-releases/fbi-releases-2015-hate-crime-statistics
+https://ucr.fbi.gov/hate-crime/2015/topic-pages/jurisdiction_final
+https://www.icpsr.umich.edu/icpsrweb/NACJD/series/57/studies?searchIn=TITLE&archive=NACJD&q=%22Hate+Crime+Data%22&sortBy=7
+https://www.propublica.org/article/hate-crimes-are-up-but-the-government-isnt-keeping-good-track-of-them
+
+Since the 1990s, the FBI has collected data on hate crimes from local law enforcement agencies. On Monday, the bureau released data for 2015, reporting “5,850 criminal incidents and 6,885 related offenses, as being motivated by bias toward race, ethnicity, ancestry, religion, sexual orientation, disability, gender, and gender identity.” Those numbers are based on reports from 14,997 participating agencies. On the FBI’s website, you can view and download summary tables of the most recent data. You can also download incident-specific data for 1992 through 2014 from the National Archive of Criminal Justice Data. Unfortunately, as ProPublica noted yesterday, the FBI dataset is “deeply flawed”; more than 3,000 law enforcement agencies don’t participate in the program. [h/t John Templon]
+
+## Edition 2016.11.02
+
+### The dangerous dogs of Austin, Texas.
+
+https://data.austintexas.gov/Public-Safety/Declared-Dangerous-Dogs/ykw4-j3aj
+
+The city publishes a spreadsheet — last updated in May — of local dogs who’ve officially been “declared dangerous.” (“They have attacked in the past. The owner is required to provide $100,000 in financial responsibility. If they attack again the court could order them put to sleep.”) The file currently contains 63 entries, from a Labrador named Charlie to a Blue Lacy named Flint. [h/t Sharon Machlis]
+
+### Millions of Amazon reviews.
+
+http://cseweb.ucsd.edu/~jmcauley/
+http://jmcauley.ucsd.edu/data/amazon/
+http://jmcauley.ucsd.edu/data/amazon/qa/
+https://www.amazon.com/dp/B000IDSLOG
+http://www.slate.com/articles/arts/number_1/2011/03/im_french_chew_on_me.html
+
+Julian McAuley, an assistant professor at UC San Diego, has collected a massive amount of user-generated data from Amazon.com, including 142.8 million reviews and 1.4 million answered Q&amp;As. (As of mid-2014, Sophie la Girafe was the most-reviewed item in the baby category. Backstory here.) Much of the data can be downloaded directly, but the largest files require contacting McAuley for access. [h/t Reddit user samofny]
+
+### Complaints against NYC police.
+
+http://www1.nyc.gov/site/ccrb/policy/data-transparency-initiative.page
+https://www.projectcomport.org/department/IMPD/
+http://sunlightfoundation.com/blog/2016/10/25/the-local-projects-that-are-making-police-complaint-data-open-and-accessible/
+https://cpdb.co/
+https://tinyletter.com/data-is-plural/letters/data-is-plural-2015-11-25-edition
+
+Earlier this autumn, New York City began publishing a dataset of official citizen complaints against the city’s police, for every case closed since 2006. For each of the 200,000+ allegations, the main dataset includes various details about the incident — e.g., where it took place, and whether there’s video evidence — but no information about the officer involved. Related: Similar data from Indianapolis, which includes demographic information about the complained-against officers but not their names. Also related: “The local projects that are making police complaint data open and accessible.” Previously: Complaints against Chicago police, featured Nov. 11, 2015. [h/t Eve Ahearn]
+
+### Where we live and build.
+
+http://ghslsys.jrc.ec.europa.eu/index.php
+http://ghslsys.jrc.ec.europa.eu/datasets.php
+
+The European Commission’s Global Human Settlement Layer combines satellite imagery and census data to measure three things: population, building density, and urban/rural classification. The resulting datasets are fairly detailed — they provide population estimates for every 250-meter square in the world, for example — and are available for 1975, 1990, 2000, and 2015. [h/t Alaistair Rae]
+
+### Medicare beneficiaries.
+
+http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/23380?classification=ICPSR.IX.&q=&sortBy=7
+
+The U.S. government’s Medicare Health Outcomes Survey tracks the “physical and mental health and well-being” of Americans covered by Medicare. Each survey, currently available for 1998–2000 to 2012–2014, follows a sample of Medicare beneficiaries for two years, and asks them questions along the lines of, “In the past 12 months, have you had a problem with balance or walking?” The 2012–2014 data includes (at least partial) responses from 296,320 people. [h/t Ricardo Pietrobon] [Update, 2016-11-02: The original link in this item points to an ICPSR page, which provides access only to people at "member institutions." Here's a better link to the data: http://www.hosonline.org/en/data-dissemination/research-data-files/]
+
+## Edition 2016.10.26
+
+### TSA confiscations.
+
+http://metrocosm.com/get-the-data/#tsa
+https://twitter.com/galka_max
+http://metrocosm.com/confiscated-items-airport-security/
+
+Between October 2014 and September 2015, the U.S. Transportation Security Administration confiscated 22,196 “dangerous” items at airports, including 156 times at New York’s JFK. (Twice there, someone had placed fireworks in checked baggage.) That’s according to data obtained from the government by FOIA enthusiast Max Galka, who has also built an interactive map of the confiscations.
+
+### Airborne.
+
+http://openflights.org/data.html
+http://www.usatoday.com/story/travel/flights/todayinthesky/2016/09/12/worlds-busiest-airport-atlanta-takes-title-again/90271028/
+
+OpenFlights.org has collected data on more than 60,000 flight routes, including 915 itineraries departing Atlanta’s Hartsfield–Jackson International Airport. (That airport was recently named the world’s busiest, for the 18th year in a row.) For each route, the dataset indicates the airline, the departing airport, the arriving airport, the number of stops, and what type of plane is typically used. The website also provides datasets on thousands of airports and airlines. Important caveat: “This data is not suitable for navigation.”
+
+### Cities and culture.
+
+http://www.worldcitiescultureforum.com/
+http://www.worldcitiescultureforum.com/data
+http://www.worldcitiescultureforum.com/data/art-galleries
+http://www.worldcitiescultureforum.com/data/number-of-international-tourists-per-year
+http://www.worldcitiescultureforum.com/data/total-value-of-cinema-ticket-sales-per-year-ppp
+http://www.worldcitiescultureforum.com/data/number-of-comedy-clubs
+
+The World Cities Culture Forum, a convening of 32 major cities on six continents, has assembled a series of mini-datasets on 70+ “cultural indicators”. Those indicators range from the number of art galleries in rach city (Paris had 1,151 in 2012) to the number of international tourists each city sees per year (Istanbul had 11.8 million in 2014) to the value of cinema ticket sales (Shanghai sold $563 million in 2014). Note: The data points draw on various sources — at least one just says “Google” — and aren’t necessarily directly comparable. [h/t Camilo Moreno]
+
+### School testing.
+
+http://www2.ed.gov/about/inits/ed/edfacts/data-files/index.html
+
+The Department of Education’s EDFacts data tracks public grade schools’ participation and proficiency rates on standardized math and reading/language exams. The files provide data on all students who took the tests, broken down by race/ethnicity, sex, disability status, homelessness, and more. A related set of data files, available on the same page, tracks high-school graduation rates.
+
+### Congressional Research Service reports, in bulk.
+
+https://www.everycrsreport.com/
+https://medium.com/@danielschuman/why-i-came-to-believe-crs-reports-should-be-publicly-available-and-built-a-website-to-make-it-77b4b0f6233e
+https://www.everycrsreport.com/about.html
+https://www.everycrsreport.com/download.html
+
+The website EveryCRSReport.com provides unprecedented public access to reports from the Congressional Research Service — essentially the national legislature’s think-tank. The website, which launched last week by Demand Progress and Congressional Data Coalition, also lets you download metadata and text for each report. [h/t Daniel Schuman]
+
 ## Edition 2016.10.19
 
 ### Readers like you.
