@@ -2,6 +2,220 @@
 
 Sign-up for newsletter @ https://tinyletter.com/data-is-plural
 
+## Edition 2017.01.25
+
+### Standard mugshots.
+
+https://www.nist.gov/srd/nist-special-database-18
+
+The National Institute of Standards and Technology publishes Special Database 18 “for use in development and testing of automated mugshot identification systems.” The dataset contains 3,248 mugshot photos portraying 1,573 different people (mostly men), and includes each arrestee’s age and gender. [h/t Noah Veltman]
+
+### European trees.
+
+https://figshare.com/collections/A_high-resolution_pan-European_tree_occurrence_dataset/3288407
+http://www.nature.com/articles/sdata2016123
+https://figshare.com/articles/Tree_occurrences_at_species_level/3497885
+https://figshare.com/articles/Occurrences_location_shapefile/3497891
+https://tinyletter.com/data-is-plural/letters/data-is-plural-2015-12-23-edition
+http://tinyletter.com/data-is-plural/letters/data-is-plural-2016-11-16-edition
+
+EU-Forest is a new dataset that, according to its authors, “extends by almost one order of magnitude the publicly available information on European tree species distribution.” The new project merges and harmonizes data from 21 national forest surveys and two related databases. In all, EU-Forest includes more than 580,000 observations of more than 200 species in 1km-by-1km square plots of land, and is available in both tabular and geospatial file formats. Previously: American tree maps (Dec. 23, 2015) and NYC street trees (Nov. 16, 2016).
+
+### TV talk.
+
+http://gdeltproject.org/
+https://archive.org/details/tv
+http://television.gdeltproject.org/cgi-bin/iatv_ftxtsearch/iatv_ftxtsearch
+https://blog.archive.org/2016/12/20/new-research-tool-for-visualizing-two-million-hours-of-television-news/
+https://tinyletter.com/data-is-plural/letters/data-is-plural-2016-02-10-edition
+
+The GDELT Project and the Internet Archive have collaborated to make the latter's Television News Archive more powerfully searchable. Their new tool, announced in December, lets you search across “more than 5.7 billion words from over 150 distinct stations spanning July 2009 to present” at a sentence-by-sentence level. The results are downloadable as CSV or JSON files. Previously: The Political TV Ad Archive (Feb. 2, 2016).
+
+### Three centuries of UK macroeconomic data.
+
+ http://www.bankofengland.co.uk/research/Pages/onebank/threecenturies.aspx
+
+The Bank of England publishes a spreadsheet of historical economic data going back, in some cases, to the late 1600s. The country’s GDP in 1700 was £11.7 billion in 2013 prices. That’s about 1/157th the size of the UK’s GDP in 2015. And in November 1694, monthly short-term interest rates were roughly 6%. [h/t Ian Greenleigh]
+
+### Colleges and economic mobility.
+
+http://www.equality-of-opportunity.org/team/
+http://www.equality-of-opportunity.org/college/
+http://www.equality-of-opportunity.org/data/
+https://www.nytimes.com/interactive/2017/01/18/upshot/some-colleges-have-more-students-from-the-top-1-percent-than-the-bottom-60.html
+
+A team of economists studying “the equality of opportunity” has published new research identifying which colleges “help the most children climb the income ladder.” For their analysis, the researchers combined federal tax records and data from the Department of Education. California State University–Los Angeles was one of the greatest engines of mobility; nearly 1 in 10 students enrolled there began in the bottom 20% of income but reached the top 20% by their early thirties. You can download the findings, which include similar statistics for more than 2,000 schools, as a series of spreadsheets. Related: “Some Colleges Have More Students From the Top 1 Percent Than the Bottom 60. Find Yours,” from the New York Times.
+
+## Edition 2017.01.18
+
+### Dot-gov domains.
+
+https://github.com/GSA/data/tree/gh-pages/dotgov-domains
+http://aapi.gov
+http://www.youthrules.gov/
+
+The General Services Administration recently updated its list of known .gov domains. It currently includes more than 1,300 federal domains — from aapi.gov to youthrules.gov — and more than 4,300 domains registered by state, local, and native sovereign agencies.
+
+### German rail.
+
+http://www.railway-technology.com/features/featureengines-of-trade-the-ten-biggest-rail-companies-by-revenue-4943955/
+http://data.deutschebahn.com/dataset?groups=datasets
+http://data.deutschebahn.com/dataset/data-streckennetz
+http://data.deutschebahn.com/dataset/data-stationsdaten
+http://data.deutschebahn.com/dataset/data-bahnsteig-regio
+http://data.deutschebahn.com/dataset/betriebsstellen-gueterverkehr
+
+State-owned Deutsche Bahn AG is Europe’s largest railway company by revenue, serving 12 million train and bus passengers each day. It also happens to publish a bunch of open data, including datasets on its routes, stations, platforms, and cargo facilities. [h/t Martin Bergmann]
+
+### Online and offline prices.
+
+http://www.mit.edu/~afc/
+http://bpp.mit.edu/
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FXXOUHF
+https://www.aeaweb.org/articles?id=10.1257/aer.20160542
+
+Between December 2014 and March 2016, Alberto Cavallo — co-founder of MIT’s Billion Prices Project — sent 323 crowdsourced workers to collect product prices from 56 large retailers in 10 countries. Then, he found the prices for the same products on the retailers’ websites. The results, which contain tens of thousands of observations, are available as several Excel spreadsheets. (Caveat: The dataset’s “Terms of Use” rules stipulate that the information is “EXCLUSIVELY FOR USE IN ACADEMIC RESEARCH AND PUBLICATIONS”.) Related: Cavallo summarized his findings in a paper published recently by the American Economic Review.
+
+### Food stamp foods.
+
+https://www.fns.usda.gov/snap/foods-typically-purchased-supplemental-nutrition-assistance-program-snap-households
+https://github.com/data-is-plural/usda-snap-spending-study
+https://www.reddit.com/r/datasets/comments/5o249x/foods_typically_purchased_by_supplemental/
+
+Late last year, the USDA published a study that used “point-of-sale transaction data from a leading grocery retailer to examine the food choices” of households receiving Supplemental Nutrition Assistance Program (SNAP) benefits. In an appendix, the report ranks the total spending on major commodities by SNAP households and non-SNAP households. Soft drinks, “fluid milk products,” and ground beef were the top three commodities purchased by SNAP households. Milk, soft drinks, and cheese were the top three for non-SNAP households. That information is presented as a PDF table, but I’ve converted it to a spreadsheet-friendly text file for you. [h//t Reddit user "junglejuicy"]
+
+### TrumpWorld.
+
+https://www.buzzfeed.com/johntemplon/help-us-map-trumpworld
+
+At BuzzFeed News, a few colleagues and I spent the past two months compiling a big database of organizations and people connected to President-elect Trump, his family, advisers, and Cabinet picks. On Sunday, we published what we’ve found so far — connections between more than 1,500 organizations and people altogether. Still, there are certainly things we’ve missed. So you can download and search the data, but you can also help us expand it. See something we’ve overlooked? Let us know!
+
+## Edition 2017.01.11
+
+### Where Waldo is.
+
+http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/
+http://www.slate.com/articles/arts/culturebox/2013/11/where_s_waldo_a_new_strategy_for_locating_the_missing_man_in_martin_hanford.html
+http://www.randalolson.com/wp-content/uploads/wheres-waldo-locations.csv
+
+In 2015, computer scientist Randy Olson tried computing “the optimal search strategy for finding Waldo” in the seven original Where’s Waldo? books. In doing so, he transcribed a 2013 Slate chart of Waldo’s locations (itself transcribed from those seven original books). The resulting dataset contains 68 rows — one for each Waldo — and four columns: book, page, x coordinate, and y coordinate.
+
+### So many satellites.
+
+https://celestrak.com/
+https://celestrak.com/webmaster.asp
+https://celestrak.com/NORAD/documentation/
+https://celestrak.com/satcat/search.asp
+https://celestrak.com/satcat/boxscore.asp
+http://www.ucsusa.org/nuclear-weapons/space-weapons/satellite-database
+https://tinyletter.com/data-is-plural/letters/data-is-plural-2015-12-30-edition
+
+CelesTrak’s T.S. Kelso has been obsessively transcribing NORAD’s “resident space object” data for decades. Among his offerings: the SATCAT satellite catalog, which provides data on all known satellites launched since 1957 — more than 41,900 of ‘em. Kelso also provides a SATCAT Boxscore, which is like a baseball box score ... but for satellites. The U.S., it turns out, is responsible for almost exactly one-third of the 1,590 satellites classified as “active.” Previously: The Union of Concerned Scientists’ satellite database, featured Dec. 30, 2015. [h/t Noah Veltman]
+
+### Four wars’ bombing missions.
+
+https://www.data.mil/s/v2/data-stories-an-overview-of-thor/a100cd16-c2a7-453b-8ea6-45947c1bbc51/
+
+Years ago, Lt. Col. Jenns Robertson began entering information into “a simple Excel spreadsheet that eventually matured into the largest compilation of releasable U.S. air operations data in existence.” Last month, the Department of Defense published a “beta” version of this data, known as Theater History of Operations Reports (THOR). Currently, THOR’s data covers bombing operations from World War I, World War II, the Korean War, and the Vietnam War. For each bombing, the reports include data about the aircraft, munitions, targets, results, and more.
+
+### Getting warmer.
+
+https://www.buzzfeed.com/peteraldhous/another-hottest-year
+https://www.ncdc.noaa.gov/cag/time-series/global
+https://buzzfeednews.github.io/2016-12-warmest-year/
+https://www.ncdc.noaa.gov/sotc/national/201613
+
+Scientists expect that, when the final numbers come in, 2016 will have been Earth’s hottest year on record. The National Oceanic and Atmospheric Administration publishes monthly data on “temperature anomalies” — how much hotter or cooler a month was than the 20th century average. (November 2016, the most recent month available, was 0.73° Celsius warmer than the average November.) You can grab the data for the entire globe, by hemisphere, or by continent; for the land and ocean combined, or separately; and going all the way back to 1880. Related: My colleague Peter Aldhous demonstrates how he charted this data using R. Also: NOAA released its 2016 U.S. “State of the Climate” report on Monday.
+
+### What Facebook knows about us.
+
+https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you
+https://www.propublica.org/article/facebook-doesnt-tell-users-everything-it-really-knows-about-them
+https://www.propublica.org/datastore/dataset/facebook-ad-categories
+
+In September, ProPublica published a Chrome extension that showed readers what Facebook said it knew about them — and then asked readers to share that data. In the following months, readers unearthed more than 52,000 of the “unique interest categories” that Facebook uses for advertising, such as “yoga,” “beer,” and “Scent of a Woman (1992 film).” But ProPublica’s reporters also found that Facebook doesn’t tell users about the “far more sensitive” data it buys about their offline lives, which can include “their income, the types of restaurants they frequent and even how many credit cards are in their wallets.” To support these findings, ProPublica published two key datasets: the crowdsourced “interest categories” and the list of categories that Facebook allows advertisers to target.
+
+## Edition 2016.12.21
+
+### The geography of language on Twitter.
+
+http://qz.com/862325/the-great-american-word-mapper/
+https://sites.google.com/site/wordmapperinfo/
+
+Last week, Quartz published an addictive tool that lets you map word usage on Twitter, by U.S. county. It’s based on an academic analysis of 890 million geocoded tweets uttered between October 2013 and November 2014. Data and details available here.
+
+### Two planes too close.
+
+http://www.asias.faa.gov/pls/apex/f?p=100:33:0::NO:::
+http://www.asias.faa.gov/pls/apex/f?p=100:35:0::NO::P35_REGION_VAR:1
+
+The FAA’s Near Midair Collision System keeps track of incidents where two planes flew uncomfortably close to each other. The system, which is based on reports from pilots and flight crew members, contains more than 7,500 incidents dating back to 1987. The FAA received 305 of these reports for the first 10 months of 2016, including 35 classified as “critical.”
+
+### The birds and the bees (and more).
+
+https://bison.usgs.gov/
+
+The U.S. Geological Survey’s BISON service brings together “species occurrence” data from hundreds of sources. The service, whose name stands for ”Biodiversity Information Serving our Nation,” currently contains 262 million records, each of which refers to the observation of “an organism at a particular time in a particular place.” Most of the observations are based on direct sightings; others use fossils, written records, or other sources. The data aren’t available for bulk download, but can be accessed via BISON’s free API. [h/t Clare Malone]
+
+### Petroleum rig counts.
+
+http://phx.corporate-ir.net/phoenix.zhtml?c=79687&p=irol-rigcountsoverview
+http://phx.corporate-ir.net/phoenix.zhtml?c=79687&p=irol-reportsother
+http://phx.corporate-ir.net/phoenix.zhtml?c=79687&p=irol-rigcountsintl
+
+Since the 1940s, oilfield services corporation Baker Hughes and its predecessor companies have been publishing “rig counts” — the number of rigs actively drilling for oil and/or gas in various parts of the world. These days, the company updates its North America numbers every week and its international counts every month. As of December 16, they counted 637 rigs in — and offshore of — the United States, nearly half of them in Texas. [h/t Jordan Wirfs-Brock]
+
+### The Affordable Care Act, quantified.
+
+https://aspe.hhs.gov/compilation-state-data-affordable-care-act
+
+Last week, the U.S. Department of Health and Human Services released a dataset of state-level Obamacare metrics. The dataset is divided into five main categories: coverage gains, employer coverage, individual market coverage, Medicaid, and Medicare. Between 2010 and 2015, the proportion of Nevadans without health insurance dropped from 22.6% to 12.3% — the largest percentage-point decrease of any state. (In 2015, an estimated 17.1% of Texans still didn’t have health insurance, the highest rate of any state that year.) The metrics come from various sources, including the Census, academic studies, and the department’s own estimates. [h/t Nadja Popovich]
+
+## Edition 2016.12.14
+
+### Energy use at 10 Downing Street.
+
+https://platform.carbonculture.net/places/10-downing-street/9/https://platform.carbonculture.net/about/
+https://platform.carbonculture.net/places/10-downing-street/9/
+https://platform.carbonculture.net/places/tate-modern/8962/
+https://platform.carbonculture.net/communities/ucl/30/
+
+UK-based CarbonCulture helps organizations measure and publish their buildings’ energy and water use in near-realtime. Among the first users: 10 Downing Street, the Tate Modern, and University College London. For each building, you can download yearly datasets, which are broken down into 30-minute intervals. [h/t Max Roser]
+
+### Crowdfunding.
+
+https://webrobots.io/about-us/
+https://webrobots.io/kickstarter-datasets/
+https://webrobots.io/indiegogo-dataset/
+http://crowdfunding.webrobots.io/
+
+A Lithuania-based web-scraping company has been collecting data on Kickstarter projects and Indiegogo campaigns every month. The datasets include (among other things) each project’s number of backers, amount pledged, and category. You can also explore the data online. [h/t Vincent Granville]
+
+### Water world.
+
+http://www.nature.com/nature/journal/vaop/ncurrent/full/nature20584.html
+https://landsat.usgs.gov/
+https://global-surface-water.appspot.com/download
+https://global-surface-water.appspot.com/
+http://www.nytimes.com/interactive/2016/12/09/science/mapping-three-decades-of-global-water-change.html
+
+The European Commission and Google engineers have mapped surface water – including lakes, rivers, reservoirs, oceans, and more – on every 30-meter-by-30-meter square on Earth between 1984 and 2015. During that time, “permanent surface water has disappeared from an area of almost 90,000 square kilometres, roughly equivalent to that of Lake Superior, though new permanent bodies of surface water covering 184,000 square kilometres have formed elsewhere.” The data, based on the U.S. government’s Landsat satellite images, are available to download and explore online. Related: “Mapping Three Decades of Global Water Change,” published by The New York Times, based on this dataset.
+
+### Breached accounts.
+
+https://haveibeenpwned.com/
+https://www.troyhunt.com/heres-1-4-billion-records-from-have-i-been-pwned-for-you-to-analyse/
+https://github.com/data-is-plural/haveibeenpwned-account-combinations
+https://haveibeenpwned.com/PwnedWebsites
+
+Troy Hunt runs HaveIBeenPwned.com, a service that lets you see whether your email address has been included in any major data breaches. Last week, Hunt published an anonymized dataset based on the breaches he’s collected. (That post provides a torrent file for the dataset; you can also download the data here.) Unlike the HaveIBeenPwned website, the dataset doesn’t include information about specific accounts; instead it counts the number of email addresses that have been compromised on particular combinations of websites. For example, 14.6 million email addresses appeared in both the LinkedIn and Dropbox breaches. (You can read more about each breach here.)
+
+### Medicare drug costs.
+
+https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Information-on-Prescription-Drugs/2015MedicareData.html
+
+The federal government has released data on Medicare’s prescription drug spending from 2011 to 2015. Previously, Medicare had only published data on the most expensive drugs; the new release includes data on all drugs used by at least 11 Medicare patients in a given year. Caveat: Medicare “is prohibited from publicly disclosing drug-specific information on manufacturer rebates,” so the “spending metrics do not reflect any manufacturers’ rebates or other price concessions.” [h/t Charles Ornstein]
+
 ## Edition 2016.12.07
 
 ### Classical music, annotated.
@@ -2058,7 +2272,7 @@ http://journals.ametsoc.org/doi/full/10.1175/JTECH-D-11-00103.1
 
 The National Centers for Environmental Information maintains more than 20 petabytes of data, it says. Among the most useful slices is the Global Historical Climatology Network’s data, which aggregates reports on temperature, precipitation, wind, and more from tens of thousands of climate-monitoring stations around the world. One tidbit: January 1995 was Death Valley’s wettest month since at least the 1960s, with a whopping 2.59 inches of precipitation.
 
-## Edition 2015.11.29
+## Edition 2015.11.25
 
 ### A century of pumpkin pie.
 
@@ -2068,8 +2282,6 @@ http://menus.nypl.org/search?utf8=%E2%9C%93&query=%22thanksgiving%2Bturkey%22%2B
 
 In 2011, the New York Public Library launched a crowdsourcing project to transcribe its massive collection of restaurant menus, dating back to the 1850s. So far, volunteers have transcribed more than 1.3 million dishes, their prices, and where on the menu each dish appeared. The library publishes a spreadsheet of all the data, and updates it twice a month. Happy Thanksgiving!
 
-## Edition 2015.11.28
-
 ### The most popular government web pages.
 
 https://analytics.usa.gov/
@@ -2077,8 +2289,6 @@ http://www.weather.gov/
 https://18f.gsa.gov/2015/03/19/how-we-built-analytics-usa-gov/
 
 The U.S. government has one very large Google Analytics account, and has begun sharing traffic data with the public. Not every federal website is accounted for, but more than 4,000 are. Over the past 90 days, they’ve racked up approximately 1.5 billion visits. The most popular page at the time of this writing? Weather.gov. Bonus: How they built it. [h/t Rebecca Williams]
-
-## Edition 2015.11.27
 
 ### 1.7 billion Reddit comments.
 
@@ -2088,8 +2298,6 @@ https://books.google.com/ngrams
 
 You can download every comment posted to Reddit since October 2007 … but you’ll need some patience and a terabyte of storage. If you’re more of the instant-gratification, don’t-have-an-external-hard-drive-lying-around type, you might enjoy FiveThirtyEight’s “How The Internet* Talks,” a sort of Google Ngrams for the Reddit data. [h/t Randall Olson and Ritchie King]
 
-## Edition 2015.11.26
-
 ### Refugees in America.
 
 http://www.wrapsnet.org/Reports/InteractiveReporting/tabid/393/Default.aspx
@@ -2097,8 +2305,6 @@ http://www.buzzfeed.com/jsvine/where-us-refugees-come-from-and-go-in-charts
 http://popstats.unhcr.org/en/overview
 
 The Department of State publishes demographic reports on refugee arrivals since 2002. The data includes country of origin, resettlement city and state, religion, age, gender, and more. Related: At BuzzFeed, I used the data to chart the past decade of refugee arrivals. Also related: The UN’s refugee data portal.
-
-## Edition 2015.11.25
 
 ### Complaints against Chicago police.
 
