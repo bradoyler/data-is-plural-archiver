@@ -1,10 +1,16 @@
 # Data Is Plural Archiver
 
-This repo pulls content from the Data Is Plural GoogleDoc and converts to Markdown
+This repo pulls content from the 'Data Is Plural' GoogleSheet and converts to Markdown
 
-## Structured Archive by Jeremy Singer-Vine (jsvine@gmail.com)
+## Structured Archive by Jeremy Singer-Vine
 
-[Read full archive](archive.md)
+Subscribe @ https://tinyletter.com/data-is-plural 
+
+### [Read the Archive](archive.md)
+
+----
+
+### How to use this tool
 
 #### Re-generate the Archive
 

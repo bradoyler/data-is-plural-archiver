@@ -51,7 +51,8 @@ async.series([
         });
     },
     function buildMarkDown(step) {
-        var text ='# Data Is Plural \n';
+        var text ='# [Data Is Plural](https://tinyletter.com/data-is-plural)\n\n';
+        text += 'Sign-up for newsletter @ https://tinyletter.com/data-is-plural\n';
         for (var edition in output) {
             //console.log('## Edition:', edition, output[edition].datasets.length, 'datasets');
 
