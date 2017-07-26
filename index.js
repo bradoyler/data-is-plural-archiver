@@ -29,7 +29,7 @@ async.series([
         // google provides some query options
         sheet.getRows({
             offset: 1,
-            limit: 200,
+            limit: 500,
             orderby: 'edition'
         }, function( err, rows ){
 
